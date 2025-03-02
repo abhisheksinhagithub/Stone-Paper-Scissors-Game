@@ -1,4 +1,4 @@
-# Stone, Paper & Scissors Game
+# [Stone, Paper & Scissors Game](https://abhisheksinhagithub.github.io/Stone-Paper-Scissors-Game/)
 
 ![Game Screenshot](Images/Game%20Screenshot.png)
 
